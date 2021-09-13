@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="M2048">
+    <output-path>$USER_HOME$/Desktop/C</output-path>
+    <root id="archive" name="M2048.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/2048/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="2048" />
+    </root>
+  </artifact>
+</component>
